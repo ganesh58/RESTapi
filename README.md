@@ -6,7 +6,7 @@
 **1. Clone the application**
 
 
-[a link](https://github.com/ganesh58/RESTapi)
+[a link] (https://github.com/ganesh58/RESTapi)
 
 
 **2. Create Mysql database**
@@ -23,7 +23,8 @@ open src/main/resources/application.properties
 
 
 
-**4 To run the application goto
+**4 To run the application goto**
+
 src/main/java/com.example.demo/DemoApplication.java
 
 
