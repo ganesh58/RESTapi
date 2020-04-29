@@ -28,6 +28,6 @@ open src/main/resources/application.properties
 src/main/java/com.example.demo/DemoApplication.java
 
 
-The app will start running at <http://localhost:8091/getStudents>.
+The app will start running at <http://localhost:8091/students>.
 
  
