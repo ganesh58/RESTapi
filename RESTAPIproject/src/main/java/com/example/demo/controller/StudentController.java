@@ -22,7 +22,7 @@ public class StudentController
     private StudentDao dao;
 
     @ResponseBody
-    @GetMapping("/getStudents")
+    @GetMapping("/students")
 /***
  * Method to display all student details
  */
